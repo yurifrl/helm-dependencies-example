@@ -1,0 +1,7 @@
+dependencies:
+- name: foo
+  version: "0.1.0"
+  repository: "file://deps/foo"
+- name: bar
+  version: "0.1.0"
+  repository: "file://deps/bar"

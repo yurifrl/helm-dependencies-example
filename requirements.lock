@@ -1,0 +1,9 @@
+dependencies:
+- name: foo
+  repository: file://deps/foo
+  version: 0.1.0
+- name: bar
+  repository: file://deps/bar
+  version: 0.1.0
+digest: sha256:1e44e7a5d05b6fa71732c4d775d4d9ed9cb949860f6ad799583acce4b06e4e06
+generated: "2019-07-30T17:01:21.396513566-03:00"
